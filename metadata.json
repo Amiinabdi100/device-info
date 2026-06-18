@@ -1,0 +1,6 @@
+{
+  "name": "Device Info",
+  "description": "Hardware monitor and system information application in Somali language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
